@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sushmitha978
-- 👀 I’m interested in Web Development and Cloud
-- 🌱 I’m currently learning Backend and Advanced Cloud Technologies
+- 👀 I’m interested in Web Development and programming 
+- 🌱 I’m currently learning Backend.
 - ⚡ Fun fact about me: Any project idea that strikes my mind, I make sure I have it in production asap.
 
 <!---
